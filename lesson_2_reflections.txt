@@ -8,6 +8,8 @@ The staging area is adds an eliment of control to your versions which especally 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+with the aid of the staging area makes it easy to see what lines have been edited between commits.
+being promted to add message in order to commit after staging.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
