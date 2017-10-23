@@ -16,6 +16,7 @@ organized? How would branches help?
 keeping track of experimental changes before finalizing while keeping the core version unedited.
 
 How do the diagrams help you visualize the branch structure?
+it does so by highlighting each parent commit and any other branches that may have been made.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
