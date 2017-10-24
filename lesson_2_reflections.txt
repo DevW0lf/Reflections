@@ -20,6 +20,8 @@ it does so by highlighting each parent commit and any other branches that may ha
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+this combines the the work on to diffent branches to creat a new version of a file.
+we represent it in a chart to make following updates to file clear
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
