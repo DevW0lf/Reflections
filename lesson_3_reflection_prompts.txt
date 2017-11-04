@@ -21,12 +21,14 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     this is benefitial because you may have forgotten about work that was done and not pushed 
-    and you would be able compare the file and make changes if needed.
+    and you would be able compare the file and make changes if needed.      
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    while there are other older version control software out there. 
+    Being new to the programing world i would email a copie of my text file showing my code. 
+    Which may be both easier and harder. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
